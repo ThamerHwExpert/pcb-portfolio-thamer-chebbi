@@ -22,22 +22,21 @@ Everything shown is safe, redacted, and recreated for portfolio purposes.
 
 ## 📂 Repository Structure
 
+```text
 pcb-portfolio-thamer-chebbi/
-│
-├── README.md # You are here
-├── case-studies/ # Redacted engineering case studies
-│ ├── proj01-multi-protocol-uart/
-│ ├── proj02-stm32h757-hmi/
-│ ├── proj03-cubesat-eps/
-│ └── proj04-agilex3-pcie/
-│
-├── diagrams/ # Generic diagrams (block diagrams, stackups, examples)
-│ ├── generic-block-diagrams/
-│ └── generic-stackups/
-│
+├── README.md                # You are here
+├── case-studies/            # Redacted engineering case studies
+│   ├── proj01-multi-protocol-uart/
+│   ├── proj02-stm32h757-hmi/
+│   ├── proj03-cubesat-eps/
+│   └── proj04-agilex3-pcie/
+├── diagrams/                # Generic diagrams (block diagrams, stackups, examples)
+│   ├── generic-block-diagrams/
+│   └── generic-stackups/
 └── assets/
-├── images-redacted/ # Cropped or blurred images (non-identifiable)
-└── templates/ # Markdown templates for future projects
+    ├── images-redacted/     # Cropped or blurred images (non-identifiable)
+    └── templates/           # Markdown templates for future projects
+
 
 
 ---
@@ -123,8 +122,8 @@ A polished PDF version of this portfolio—including formatted layouts, project 
 **Thamer Chebbi**  
 Senior Hardware / PCB Design Engineer  
 📍 Tunisia — open to relocation & remote roles  
-🔗 LinkedIn: https://www.linkedin.com/in/thameur-chebbi-b9157b167/
-📧 Email: chebbythamer@gmail.com
+🔗 LinkedIn: *https://www.linkedin.com/in/thameur-chebbi-b9157b167/*
+📧 Email: *chebbythamer@gmail.com*
 
 ---
 
