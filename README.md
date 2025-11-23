@@ -22,7 +22,6 @@ Everything shown is safe, redacted, and recreated for portfolio purposes.
 
 ## 📂 Repository Structure
 
-```text
 pcb-portfolio-thamer-chebbi/
 ├── README.md                # You are here
 ├── case-studies/            # Redacted engineering case studies
