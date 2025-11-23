@@ -123,7 +123,7 @@ A polished PDF version of this portfolio—including formatted layouts, project 
 **Thamer Chebbi**  
 Senior Hardware / PCB Design Engineer  
 📍 Tunisia — open to relocation & remote roles  
-🔗 LinkedIn: [*Add your link here*](https://www.linkedin.com/in/thameur-chebbi-b9157b167/)  
+🔗 LinkedIn: https://www.linkedin.com/in/thameur-chebbi-b9157b167/
 📧 Email: chebbythamer@gmail.com
 
 ---
